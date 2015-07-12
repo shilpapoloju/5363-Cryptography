@@ -2,7 +2,7 @@
 # Name:Shilpa Poloju
 # Class: CMPS 5363 Cryptography
 # Date: 13 July 2015
-# Program 1 - Playfair Cipher
+# Program1 - Playfair Cipher
 ######################################################################
 
 import pprint

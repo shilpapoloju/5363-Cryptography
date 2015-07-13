@@ -263,7 +263,7 @@ while c:
                 i=0 
                 print(newMessage)
                 while(i<len(newMessage)-1):
-                    #print(newMessage)
+                    
                     returnValue = myCipher.getCodedDigraph([newMessage[i],newMessage[i+1]])
                    
                     temp = temp + str.join(returnValue)
@@ -292,7 +292,7 @@ while c:
                 i=0 
                 print(newMessage)
                 while(i<len(newMessage)-1):
-                    #print(newMessage)
+                    
                         
                     returnValue = myCipher.getDCodedDigraph([newMessage[i],newMessage[i+1]])
                     
